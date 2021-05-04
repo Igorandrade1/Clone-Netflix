@@ -7,5 +7,6 @@ O meu nome é Igor Freitas Andrade, e se você está aqui, provavelmente está a
 A ideia desse  desafio  surgiu no meu primeiro BootCamp, com a empresa Digital Innovation One.  Meus mais sinceros agradecimentos para eles, amei  passar por cada etapa do desenvolvimento  do "CLONE DA NETFLIX"  👇
 
 
-![clonenet1](https://user-images.githubusercontent.com/78391270/116951892-7df4d500-ac5f-11eb-9b09-b97f5ecd47a9.png)
+![clonenet1](https://user-images.githubusercontent.com/78391270/116951892-7df4d500-ac5f-11eb-9b09-b97f5ecd47a9.png)![part2](https://user-images.githubusercontent.com/78391270/116951946-c14f4380-ac5f-11eb-8771-ef673c33151a.png)
+
 
